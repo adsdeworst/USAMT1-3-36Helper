@@ -1,7 +1,9 @@
 <<<<<<< HEAD
 # USAMT1-3-36Helper
-For USAMT Puzzle Problem 1, Round 3, Year 36. Simple webpage that may help you solve the problem. 
+This is a grid webapp that is a grid thats like the grid in the USAMT 1/3/36 problem, where you can color in grid boxes to block of the vision. 
+
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
