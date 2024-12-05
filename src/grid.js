@@ -129,4 +129,8 @@ const Grid = () => {
   );
 };
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 150e001 (Initial commit)
 export default Grid;
